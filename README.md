@@ -55,15 +55,16 @@ e . . . . .
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/Battleship-Game.git
-Navigate into the project folder:
+   Navigate into the project folder:
 
-cd Battleship-Game
+    cd Battleship-Game
 Compile the program:
 
-javac Battleship.java
+    javac Battleship.java
 Run the program:
 
-java Battleship
+    java Battleship
+    
 📌 Notes
 User input is case-insensitive (A1 and a1 both work).
 
